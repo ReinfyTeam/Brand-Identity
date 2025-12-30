@@ -1,3 +1,13 @@
+<p align="center">
+	<a href="https://github.com/ReinfyTeam">
+		<picture>
+			<source srcset="https://raw.githubusercontent.com/ReinfyTeam/Brand-Identity/refs/heads/main/ReinfyTeam%20Logo%20-%2006%20-%20Dark.png" media="(prefers-color-scheme: dark)">
+			<img src="https://raw.githubusercontent.com/ReinfyTeam/Brand-Identity/refs/heads/main/ReinfyTeam%20Logo%20-%2005%20-%20Light.png" loading="eager" />
+		</picture>
+	</a><br>
+	<b>A group of developers who contributes to an open-source projects for the community. ✨</b>
+</p>
+
 # ReinfyTeam Logo — Design Concept & Meaning
 
 This document explains the **concept, inspiration, and design decisions** behind the ReinfyTeam logo and its visual identity.  
